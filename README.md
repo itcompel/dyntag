@@ -1,18 +1,17 @@
 <img width="100" height="100" src="https://github.com/jsdom/jsdom/raw/master/logo.svg" alt="dyntag"><br>
 
 # DynTag
-
 ## Dynamic HTML tag builder for Node.js
 
 *dyntag* is a javascript HTML tag builder for node.js application. It allows you to create any HTML tag dynamically in your node projects. I believe it is the smallest tag builder in node.js environment. 
 
 If you need more features or you have any question about it, you are welcome. 
 
-###Features
+### Features
 - Support Standard all HTML tags
 - Dynamic form element [continue developing]
 
-###Installation
+### Installation
 
     $ npm install dyntag
 	
@@ -21,7 +20,7 @@ Or globally
     $ npm install -g dyntag
 
 
-###Usage
+### Usage
 
 First create a dyntag object
 ```javascript
@@ -57,5 +56,22 @@ app.get('/', function (req, res) {
 ```
 
 
-###License
+### License
 DynTag is MIT licensed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
