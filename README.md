@@ -1,4 +1,4 @@
-<img src="https://github.com/itcompel/dyntag/raw/master/dynatg_241x52.png" alt="dyntag"><br>
+<img width="120" height="26" src="https://github.com/itcompel/dyntag/raw/master/dynatg_241x52.png" alt="dyntag"><br>
 
 # DynTag
 ## Dynamic HTML tag builder for Node.js
